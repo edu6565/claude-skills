@@ -1,0 +1,3 @@
+# Caché que sincroniza Claude Code con las skills de Anthropic: no son skills propias,
+# se regenera sola y lleva los UUID de la cuenta en el nombre.
+skills/synced/
